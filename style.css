@@ -1,0 +1,27 @@
+.Favourite{
+    color: green;
+}
+.Hate{
+    color: red;
+}
+.Me{
+    color: brown;
+}
+.Happy{
+color: blueviolet;
+height: 200px;
+width: 200px;
+border: solid;
+}
+.Angry{
+color: darkgray;
+height: 200px;
+width: 200px;
+border: solid;
+}
+.Cool{
+color: magenta;
+height: 200px;
+width: 200px;
+border: solid;
+}
